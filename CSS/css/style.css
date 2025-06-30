@@ -1,0 +1,31 @@
+.Home_text1 {
+
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.Home_text2 {
+    text-decoration: line-through;
+    font-family: "Lora", serif;
+    
+}
+
+.Home_text3 {
+    font-family: "Lora", serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.Home_text4 {
+    text-decoration: wavy;
+    color: blueviolet;
+    word-spacing: 30px;
+    line-height: 50px;
+}
+
+.Home_text5 {
+    text-decoration: underline;
+    letter-spacing: 2px;
+
+}
